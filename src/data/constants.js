@@ -315,8 +315,8 @@ export const Bio = {
         "https://raw.githubusercontent.com/abuiron/jobsea-fe/refs/heads/main/src/images/front.png",
       tags: ["React Js", "Redux","Node Js","Express Js","MongoDB","REST API","Material UI","React-Bootstrap"],
       category: "Full Stack Web App",
-      github: "https://github.com/abuiron/Job-searchy",
-      webapp: "https://jobsearchy.netlify.app",
+      github: "https://github.com/abuiron/jobsea-fe",
+      webapp: "https://jobsea.netlify.app",
     },
 
     {
