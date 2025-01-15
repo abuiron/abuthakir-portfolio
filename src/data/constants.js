@@ -413,7 +413,7 @@ export const Bio = {
       description:
         "React Landing Page is a modern, responsive, and visually appealing web application designed to serve as the entry point for businesses, products, or services. Built using React.js, this landing page provides a seamless user experience with interactive components, optimized performance, and a sleek design tailored to capture user attention and drive conversions. The landing page features customizable sections, including a hero banner, product or service highlights, testimonials, a call-to-action, and a contact form. It integrates reusable React components, making it easy to adapt the page to different use cases while maintaining consistency in design and functionality.",
       image:
-        "https://github.com/HarikaranSubramanian/MyTodoApp/blob/main/Screenshot%202024-04-11%20223718.png?raw=true",
+        "https://github.com/abuiron/react-landing-page/blob/main/public/front.png?raw=true",
       tags: ["React Js", "React-bootstrap"],
       category: "Front End Web App",
       github: "https://github.com/abuiron/react-landing-page",
@@ -426,7 +426,7 @@ export const Bio = {
       description:
         "The Stopwatch Application is a lightweight and user-friendly web app built using HTML, CSS, and JavaScript. This app provides users with a simple yet efficient way to track time for various activities such as workouts, study sessions, or cooking. The stopwatch features a clean and intuitive interface with start, stop, and reset buttons, allowing users to control the timer effortlessly. The timer displays elapsed time in hours, minutes, seconds, and milliseconds for precise tracking. Built with vanilla JavaScript, the app ensures smooth and responsive functionality, dynamically updating the display in real-time. The application is styled with CSS to provide an appealing and modern design, while the responsive layout ensures compatibility across desktop and mobile devices. Whether you're tracking time for productivity or leisure, the Stopwatch Application delivers an accurate and seamless experience.",
       image:
-        "https://github.com/HarikaranSubramanian/MyTodoApp/blob/main/Screenshot%202024-04-11%20223718.png?raw=true",
+        "https://github.com/abuiron/stop-watch-project/blob/main/front.png?raw=true",
       tags: ["Html","CSS","Javascript"],
       category: "Front End Web App",
       github: "https://github.com/abuiron/stop-watch-project",
